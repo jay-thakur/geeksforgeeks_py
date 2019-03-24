@@ -1,1 +1,1 @@
-# This repo contains all the geeksforgeeks programs
+# This repo contains all the geeksforgeeks practice programs.
